@@ -1,0 +1,6 @@
+framework module Pods_uploadingDataUITests {
+  umbrella header "Pods-uploadingDataUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
